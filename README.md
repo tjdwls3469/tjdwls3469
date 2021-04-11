@@ -7,6 +7,8 @@
 삼성 청년 SW 아카데미 (삼성전자주식회사)</br>
 응용 SW 융합 프로젝트 과정 (렉토피아)
 
+![Sungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdwls3469&show_icons=true)
+
 <!--
 **tjdwls3469/tjdwls3469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
